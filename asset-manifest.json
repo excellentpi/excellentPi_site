@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/excellentpi_site/static/css/main.29ce9634.chunk.css",
+    "main.js": "/excellentpi_site/static/js/main.4610d42d.chunk.js",
+    "main.js.map": "/excellentpi_site/static/js/main.4610d42d.chunk.js.map",
+    "runtime-main.js": "/excellentpi_site/static/js/runtime-main.a4d1695d.js",
+    "runtime-main.js.map": "/excellentpi_site/static/js/runtime-main.a4d1695d.js.map",
+    "static/css/2.b78411e1.chunk.css": "/excellentpi_site/static/css/2.b78411e1.chunk.css",
+    "static/js/2.1f5fb4c9.chunk.js": "/excellentpi_site/static/js/2.1f5fb4c9.chunk.js",
+    "static/js/2.1f5fb4c9.chunk.js.map": "/excellentpi_site/static/js/2.1f5fb4c9.chunk.js.map",
+    "static/js/3.8cb0f899.chunk.js": "/excellentpi_site/static/js/3.8cb0f899.chunk.js",
+    "static/js/3.8cb0f899.chunk.js.map": "/excellentpi_site/static/js/3.8cb0f899.chunk.js.map",
+    "static/js/4.2dba86cc.chunk.js": "/excellentpi_site/static/js/4.2dba86cc.chunk.js",
+    "static/js/4.2dba86cc.chunk.js.map": "/excellentpi_site/static/js/4.2dba86cc.chunk.js.map",
+    "index.html": "/excellentpi_site/index.html",
+    "static/css/2.b78411e1.chunk.css.map": "/excellentpi_site/static/css/2.b78411e1.chunk.css.map",
+    "static/css/main.29ce9634.chunk.css.map": "/excellentpi_site/static/css/main.29ce9634.chunk.css.map",
+    "static/js/2.1f5fb4c9.chunk.js.LICENSE.txt": "/excellentpi_site/static/js/2.1f5fb4c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4d1695d.js",
+    "static/css/2.b78411e1.chunk.css",
+    "static/js/2.1f5fb4c9.chunk.js",
+    "static/css/main.29ce9634.chunk.css",
+    "static/js/main.4610d42d.chunk.js"
+  ]
+}
